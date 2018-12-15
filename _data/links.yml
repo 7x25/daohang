@@ -5,14 +5,14 @@
     - name: 加入探讨组
       icon: qq black
       style: basic
-      url: https://jq.qq.com/
+      url: https://jq.qq.com/?_
 
-    - name: 678导航App版本上线了~
+    - name: 六七八导航App版本上线了~
       icon: github black
       style: basic
-      url: https://dh.lq8.net/App
+      url: https://blog.lq8.net/App
 
-    - name: 678组织·招募成员丨为探索而前行·为自由而构建！
+    - name: 六七八组织·招募成员丨为探索而前行·为自由而构建！
       icon: github black
       style: basic
       url: https://bbs.lq8.net/
@@ -211,7 +211,7 @@
 
     - name: 链接失效或与内容不符，请联系修改
       style: white
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
 
   - category: 学衡
     links:
@@ -444,9 +444,9 @@
       style: red
       url: http://www.ncac.gov.cn/
 
-    - name: 678丨世界的创新源于学术的探索！
+    - name: 六七八丨世界的创新源于学术的探索！
       style: white
-      url: https://www.lq8.net/
+      url: https://anyi98.github.io/
 
   - category: 学术搜索
     links:
@@ -509,7 +509,7 @@
 
     - name: Mirror and proxy are here~
       style: white
-      url: https://go.anyi.life
+      url: https://go.lq8.net
 
   - category: 学术文化
     links:
@@ -740,22 +740,22 @@
     - name: 探索
       icon: google
       style: basic
-      url: https://lq8.net/
+      url: https://go.lq8.net/
       
     - name: 短网址
       icon: spinner
       style: basic
-      url: https://lq8.net/
+      url: https://757.life/
 
     - name: 提交收录
       icon: envelope
       style: basic
-      url: https://bbs.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E
 
     - name: 建立友链
       icon: envelope
       style: basic
-      url: https://bbs.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
 
     - name: 本站所收录网站至此完结，欢迎提交收录。
       icon: github black
@@ -764,7 +764,7 @@
 
     - name: The website is maintained by ANYI!
       style: white
-      url: https://www.lq8.net/
+      url: https://blog.lq8.net/
 
 - section: auction
   categories:
@@ -826,9 +826,9 @@
   categories:
   - category: 友情链接
     links:
-    - name: 北人
+    - name: 北邮人
       style: basic
-      url: https://lq8.net/
+      url: https://byr-navi.com/
 
     - name: 钛导航
       style: basic
@@ -880,4 +880,4 @@
 
     - name: 友链申请
       style: basic
-      url: https://www.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5

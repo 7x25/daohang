@@ -1,6 +1,6 @@
 - name: 首页
   icon: home
-  url: https://dh.lq8.net/
+  url: https://anyi98.github.io/
   active_key: home
 
 - name: 访客
@@ -20,7 +20,7 @@
 
 - name: 博客
   icon: bold
-  url: https://www.lq8.net/
+  url: https://blog.lq8.net/
   active_key: blog
 
 - name: 探索
@@ -35,10 +35,10 @@
 
 - name: 主页
   icon: info sign
-  url: https://dh.lq8.net/
+  url: https://i.lq8.net/
   active_key: about
 
 - name: 关于
   icon: user
-  url: https://dh.lq8.net/
+  url: https://www.lq8.net/
   active_key: about

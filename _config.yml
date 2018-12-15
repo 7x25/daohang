@@ -1,24 +1,24 @@
-repository: lq8 / www.lq8.net
+repository: 六七八 / lq8.net
 repository_url: https://dh.lq8.net/
 
 timezone: Asia/Handan
 lang: zh_CN
 
-title: 678导航·简洁有用的导航
-alias_en: 678
-alias_cn: 678导航
+title: 六七八导航·678-六七八
+alias_en: 678-六七八
+alias_cn: 六七八导航
 description: 世界的创新源于学术的探索•学术导航
-keywords: 678, 导航, 678导航, 学术导航, scholar, 678-Navi, 678, HEBART, 678, Navigation
-url: https://dh.lq8.net
-url: https://dh.lq8.net
+keywords: 六七八, 导航, 六七八导航, 学术导航, scholar, 678-六七八, 678, HEBART, 六七八, 六七八gation
+url: https://lq8.net
+url: https://lq8.net
 established_at: "2018-07-07T00:00+08:00"
 
 
-author: 678
-author_url: https://dh.lq8.net
-organization: 678
-organization_url: https://dh.lq8.net
-contact: lq8.net
+author: lqb
+author_url: https://lq8.net
+organization: lqb
+organization_url: https://www.lq8.net
+contact: @lq8.net
 
 image: /images/logo.png
 logo: /images/logo.png
