@@ -5,17 +5,17 @@
     - name: 加入探讨组
       icon: qq black
       style: basic
-      url: https://jq.qq.com/?_wv=1027&k=5o8rrYN
+      url: https://jq.qq.com/
 
-    - name: 安逸导航App版本上线了~
+    - name: 678导航App版本上线了~
       icon: github black
       style: basic
-      url: https://blog.anyi.life/App
+      url: https://dh.lq8.net/App
 
-    - name: 安逸组织·招募成员丨为探索而前行·为自由而构建！
+    - name: 678组织·招募成员丨为探索而前行·为自由而构建！
       icon: github black
       style: basic
-      url: https://anyiart.github.io/zh-cn/Join-our-team/
+      url: https://bbs.lq8.net/
 
 - section: scholar
   categories:
@@ -444,9 +444,9 @@
       style: red
       url: http://www.ncac.gov.cn/
 
-    - name: 安逸丨世界的创新源于学术的探索！
+    - name: 678丨世界的创新源于学术的探索！
       style: white
-      url: https://anyi98.github.io/
+      url: https://www.lq8.net/
 
   - category: 学术搜索
     links:
@@ -880,4 +880,4 @@
 
     - name: 友链申请
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      url: https://www.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
