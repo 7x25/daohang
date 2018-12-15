@@ -730,41 +730,41 @@
     - name: 论坛
       icon: user
       style: basic
-      url: http://bbs.anyi.life/
+      url: http://bbs.lq8.net/
 
     - name: 搜索
       icon: spinner
       style: basic
-      url: https://so.anyi.life/
+      url: https://so.lq8.net/
 
     - name: 探索
       icon: google
       style: basic
-      url: https://go.anyi.life/
+      url: https://lq8.net/
       
     - name: 短网址
       icon: spinner
       style: basic
-      url: https://757.life/
+      url: https://lq8.net/
 
     - name: 提交收录
       icon: envelope
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E
+      url: https://bbs.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E
 
     - name: 建立友链
       icon: envelope
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      url: https://bbs.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
 
     - name: 本站所收录网站至此完结，欢迎提交收录。
       icon: github black
       style: basic
-      url: https://anyi.life/
+      url: https://lq8.net/
 
     - name: The website is maintained by ANYI!
       style: white
-      url: https://blog.anyi.life/
+      url: https://www.lq8.net/
 
 - section: auction
   categories:
@@ -826,9 +826,9 @@
   categories:
   - category: 友情链接
     links:
-    - name: 北邮人
+    - name: 北人
       style: basic
-      url: https://byr-navi.com/
+      url: https://lq8.net/
 
     - name: 钛导航
       style: basic
