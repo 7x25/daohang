@@ -1,6 +1,6 @@
 - name: 首页
   icon: home
-  url: https://anyi98.github.io/
+  url: https://dh.lq8.net/
   active_key: home
 
 - name: 访客
@@ -15,30 +15,30 @@
   
 - name: 社区
   icon: github
-  url: https://bbs.anyi.life/
+  url: https://bbs.lq8.net/
   active_key: bbs
 
 - name: 博客
   icon: bold
-  url: https://blog.anyi.life/
+  url: https://www.lq8.net/
   active_key: blog
 
 - name: 探索
   icon: google
-  url: https://go.anyi.life/
+  url: https://go.lq8.net/
   active_key: tansuo
 
 - name: 音乐
   icon: music
-  url: https://music.163.com/#/user/home?id=563874472
+  url: https://music.163.com/
   active_key: music
 
 - name: 主页
   icon: info sign
-  url: https://i.anyi.life/
+  url: https://dh.lq8.net/
   active_key: about
 
 - name: 关于
   icon: user
-  url: https://anyiart.github.io/about/
+  url: https://dh.lq8.net/
   active_key: about
